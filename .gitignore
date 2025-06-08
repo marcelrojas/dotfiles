@@ -1,0 +1,9 @@
+.bash_history
+.zsh_history
+*.swp
+*.bak
+.ssh/
+.git/
+
+.cache/
+.local/share/nvim/
